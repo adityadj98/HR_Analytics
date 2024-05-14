@@ -8,3 +8,5 @@ This lead to huge loss of revenue and time as the companies initiate the recruit
 **Cost of predicting “Not Joining” as “Joining” (FPs) cases is 3 times more than predicting “Joining” as “Not Joining” (FNs)**
 
 #### *Language: Python 3.x*
+
+#### disclaimer : I used this for my personal study case
